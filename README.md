@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Junaid</h1>
 <h3 align="center">I'm a passionate Full Stack Developer with hands-on experience in building scalable web applications and smart AI-driven systems. I enjoy turning complex problems into clean and efficient solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedjunaid30&label=Profile%20views&color=0e75b6&style=flat" alt="syedjunaid30" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedjunaid30" alt="syedjunaid30" /></a> </p>
 
