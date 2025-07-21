@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Junaid</h1>
 <h3 align="center">I'm a passionate Full Stack Developer with hands-on experience in building scalable web applications and smart AI-driven systems. I enjoy turning complex problems into clean and efficient solutions.</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedjunaid30" alt="syedjunaid30" /></a> </p>
-
 - 🔭 I’m currently working on **Java Spring Boot Project– building robust backend systems**
 
 - 🏢 Recent Internship **Full Stack Developer at **CDAC Bangalore****
