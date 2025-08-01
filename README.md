@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
+
 ---
 
 ### 🚀 Featured Projects
