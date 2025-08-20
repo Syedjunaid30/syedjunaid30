@@ -24,10 +24,10 @@
   <a href="https://linkedin.com/in/syedjunaid21" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/syedjunaid" target="_blank">
+  <a href="https://leetcode.com/u/0l7k3N4EK8/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/@syedj6855" target="_blank">
+  <a href="https://www.hackerrank.com/profile/Syedj6855" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
